@@ -3,7 +3,7 @@ import os
 import time
 #AQUI GUARDA O DIRETORIO ONDE ESTÁ O ARQUIVO PYTHON
 caminho = os.path.dirname(os.path.realpath(__file__))
-
+#teste
 #INICIALIZA O PHOTOSHOP E PSD FILE
 ps = Dispatch("Photoshop.Application")
 
